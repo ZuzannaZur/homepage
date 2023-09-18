@@ -1,15 +1,17 @@
-<style>
+<style>h1 {
+	color: blueviolet;
+}
 
-        h1 {
-            color:blueviolet;
-        }
-        h1 {
-            font-style: italic;
-        }
-        h2 {
-            color: #ee42af;
-        }
-        main {
-            background: #9a90d04c;
-        }
-</style>
+h1 {
+	font-style: italic;
+}
+
+h2 {
+	color: #ba4690;
+}
+
+main {
+	background: #9a90d04c;
+}
+
+</style>				
