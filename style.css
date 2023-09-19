@@ -14,4 +14,25 @@ main {
 	background: #9a90d04c;
 }
 
+h4 {
+	
+	text-align: center;
+	font-family: monospace;
+	font-size: large;
+	.box {
+		color: pink;
+		background: grey;
+		overflow: hidden;
+		padding: 10px;
+		border-width: 15px;
+		border-style:dotted;
+		border-color: black;
+		position: static;
+		border-radius: 100%;
+		width: 200px;
+		height: 200px;
+		
+	}
+}
+
 </style>
